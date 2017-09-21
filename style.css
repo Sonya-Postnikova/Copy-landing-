@@ -1,0 +1,22 @@
+body {
+font-family: 'Open Sans', sans-serif;
+background-color: grey;	
+background-image: url("images/")
+}
+
+h1 {
+color: rgba(0, 230, 245, 0.5);
+font-size: 30px;
+font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	color: lightblue;
+	border: 2px solid pink;
+	border-radius: 3px dotted;
+}
+
+#footer {
+	padding: 3px
+	background-color: lightgrey;
+}
